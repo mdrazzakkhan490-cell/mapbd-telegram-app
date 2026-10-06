@@ -1,0 +1,6 @@
+{
+  "name": "MapBD Telegram Web App",
+  "description": "Interactive Bangladesh and World map designer, trip planner, quiz, and puzzle for Telegram Web Apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
